@@ -2,7 +2,7 @@
 
 ## 0. Instalacja
 
-Niektóre dystrybucje Linuxa domyślnie posiadają już zainstalowane narzędzie git. Można to sprawdzić poprzez polecnie `git -version` i albo otrzymamy informacje, że polecenie nie zostało odnalezione, albo wyświetlona zostanie wersja zainstalowanego narzędzia `git`.
+Niektóre dystrybucje Linuxa domyślnie posiadają już zainstalowane narzędzie git. Można to sprawdzić poprzez polecnie `git --version` i albo otrzymamy informacje, że polecenie nie zostało odnalezione, albo wyświetlona zostanie wersja zainstalowanego narzędzia `git`.
 
 W przypadku systemu Ubuntu instalację przeprowadzimy za pomocą menedżera pakietów `apt`. 
 
