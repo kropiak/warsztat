@@ -5,6 +5,7 @@ Markdown jest prostym (przynajmniej jego podstawowa wersja) językiem znacznikó
 Przydatne linki z informacjami nt. języka MARKDOWN:
 * https://pl.wikipedia.org/wiki/Markdown
 * https://guides.github.com/features/mastering-markdown/
+* https://www.markdownguide.org/getting-started/
 
 **Ćwiczenia do wykonania**
 
