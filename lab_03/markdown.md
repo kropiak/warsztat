@@ -1,4 +1,4 @@
-MARKDOWN
+# Warsztat badacza - MARKDOWN
 
 
 Markdown jest prostym (przynajmniej jego podstawowa wersja) językiem znaczników służącym do szybkiego formatowania dokumentów tekstowych. Może być wykorzystywany jako narzędzie formatowania dokumentacji technicznej, na stronach internetowych (przeglądarka po jego parsowaniu wyświetla go jako HTML), do pisania książek (korzystając z odpowiedniego edytora), 

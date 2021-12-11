@@ -1,4 +1,4 @@
-# Wstęp do pracy z systemem kontroli wersji Git
+# Warsztat badacza - system Git
 
 ## 0. Instalacja
 

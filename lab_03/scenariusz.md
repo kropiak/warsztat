@@ -1,3 +1,5 @@
+# Warsztat badacza - scenariusze
+
 Scenariusz 1
 
 1.	Utwórz nowe konto użytkownika: **dswpython**.
