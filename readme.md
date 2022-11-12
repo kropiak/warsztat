@@ -1,8 +1,8 @@
-# Warsztat badacza danych 2021
+# Warsztat badacza danych 2022
 
 W trakcie zajęć zostaną poruszone zagadnienia:
 
-* instalacja i wstępna konfiguracja maszyny wirtualnej z systemem Ubuntu 20.04 z uzyciem Oracle VirtualBox.
+* instalacja i wstępna konfiguracja maszyny wirtualnej z systemem Ubuntu 22.04 z uzyciem Oracle VirtualBox.
 * podstawowa obsługa systemu linux z wykorzystaniem wiersza poleceń
 * wykorzystanie systemu Git w środowisku linux i Windows
 * wykorzystanie języka znaczników Markdown do tworzenia dokumentacji
