@@ -50,7 +50,10 @@ git add *
 ```
 Należy jednak pamiętać, że różne narzędzia dodają 'coś od siebie' i mogą po pierwsze pojawić się pliki konfiguracyjne, które raczej nie będą potrzebne kiedy będziemy chcieli udostępnić repozytorium dla innych użytkowników, którzy mogą chcieć korzystać z innego narzędzia niż nasze i będą musieli samodzielnie nieco 'posprzątać' to repozytorium. Dlatego zalecanym krokiem przed dodaniem czegokolwiek do repozytorium jest przygotowanie pliku `.gitignore` zawierającego reguły (wyrażenia regularne), które spowodują, że spełaniające je zasoby będą przez narzędzie Git ignorowane przy sledzeniu zmian. Jednak należy pamiętać, że w przypadku modyfikacji `.gitignore` powinniśmy usunąć śledzenie zasobów, najwygodniej po prostu:
 ```console
+# UWAGA: poniższe polecenie usunie plik z poczekalni, ale też i z dysku
 git rm *
+# polecenie z przełacznikiem --casched usunie zasoby tylko z poczekalni
+git rm --cached *
 ```
 i ponownie
 ```console
